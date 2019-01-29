@@ -1,0 +1,4 @@
+SELECT 
+    lastName
+FROM
+    employees;
