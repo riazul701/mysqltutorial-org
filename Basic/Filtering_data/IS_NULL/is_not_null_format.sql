@@ -1,0 +1,3 @@
+SELECT 1 IS NOT NULL, -- 1
+       0 IS NOT NULL, -- 1
+       NULL IS NOT NULL; -- 0
