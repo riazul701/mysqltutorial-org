@@ -1,0 +1,9 @@
+CREATE TABLE t1 (
+    id INT PRIMARY KEY
+);
+
+CREATE TABLE t2 LIKE t1;
+
+INSERT INTO t1(id) VALUES(1),(2),(3);
+
+INSERT INTO t2(id) VALUES(2),(3),(4);
