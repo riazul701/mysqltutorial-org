@@ -1,0 +1,4 @@
+CREATE TABLE subscribers (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    email VARCHAR(50) NOT NULL UNIQUE
+);

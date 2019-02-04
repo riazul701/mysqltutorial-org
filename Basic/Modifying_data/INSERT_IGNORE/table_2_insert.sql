@@ -1,0 +1,1 @@
+INSERT INTO tokens VALUES('abcdefg');
