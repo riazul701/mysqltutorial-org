@@ -1,0 +1,3 @@
+SET @pc = 'S12_1099';
+EXECUTE stmt1 USING @pc;
+DEALLOCATE PREPARE stmt1;
