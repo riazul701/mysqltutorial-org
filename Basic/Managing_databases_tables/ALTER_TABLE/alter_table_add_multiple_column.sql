@@ -1,0 +1,3 @@
+ALTER TABLE vehicles
+ADD color VARCHAR(50),
+ADD note VARCHAR(255);

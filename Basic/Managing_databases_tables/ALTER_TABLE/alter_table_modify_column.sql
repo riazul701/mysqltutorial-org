@@ -1,0 +1,2 @@
+ALTER TABLE vehicles 
+MODIFY note VARCHAR(100) NOT NULL;

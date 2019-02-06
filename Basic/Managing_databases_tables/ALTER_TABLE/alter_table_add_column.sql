@@ -1,0 +1,2 @@
+ALTER TABLE vehicles
+ADD model VARCHAR(100) NOT NULL;
