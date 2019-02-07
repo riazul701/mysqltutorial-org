@@ -1,0 +1,2 @@
+ALTER TABLE vendors
+ADD COLUMN phone VARCHAR(15) AFTER name;

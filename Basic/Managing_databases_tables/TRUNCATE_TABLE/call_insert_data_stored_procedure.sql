@@ -1,0 +1,1 @@
+CALL load_book_data(10000);

@@ -1,0 +1,1 @@
+CHECK TABLE v_employee_info;

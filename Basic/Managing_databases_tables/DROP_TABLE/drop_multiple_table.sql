@@ -1,0 +1,1 @@
+DROP TABLE CarAccessories, CarGadgets;

@@ -1,0 +1,1 @@
+RENAME TABLE people TO employees;

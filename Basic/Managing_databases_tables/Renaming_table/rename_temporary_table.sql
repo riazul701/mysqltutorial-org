@@ -1,0 +1,1 @@
+RENAME TABLE lastnames TO unique_lastnames;
