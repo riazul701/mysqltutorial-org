@@ -1,0 +1,3 @@
+ALTER TABLE articles 
+ADD COLUMN body TEXT NOT NULL
+AFTER summary;

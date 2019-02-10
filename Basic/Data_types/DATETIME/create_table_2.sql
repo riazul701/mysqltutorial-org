@@ -1,0 +1,4 @@
+CREATE TABLE test_dt (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    created_at DATETIME
+);
