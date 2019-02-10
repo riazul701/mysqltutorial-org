@@ -1,0 +1,6 @@
+CREATE TABLE parts (
+    part_no VARCHAR(18) PRIMARY KEY,
+    description VARCHAR(40),
+    cost DECIMAL(10,2 ) NOT NULL CHECK (cost >= 0),
+    price DECIMAL(10,2) NOT NULL CHECK (price >= 0)
+);

@@ -1,0 +1,1 @@
+DROP INDEX uc_name_address ON suppliers;

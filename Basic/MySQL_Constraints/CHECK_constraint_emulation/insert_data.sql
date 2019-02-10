@@ -1,0 +1,2 @@
+INSERT INTO parts(part_no, description,cost,price)
+VALUES('A-001','Cooler',100,120);
