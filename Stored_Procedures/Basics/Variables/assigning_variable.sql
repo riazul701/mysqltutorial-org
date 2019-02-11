@@ -1,0 +1,2 @@
+DECLARE total INT DEFAULT 0;
+SET total = 10;

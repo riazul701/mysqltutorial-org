@@ -1,0 +1,1 @@
+DECLARE x, y INT DEFAULT 0;

@@ -1,0 +1,1 @@
+DECLARE totalSale DEC(10,2) DEFAULT 0.0;
