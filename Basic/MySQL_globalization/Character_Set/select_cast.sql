@@ -1,0 +1,1 @@
+SELECT CAST(_latin1'MySQL character set' AS CHAR CHARACTER SET utf8);
