@@ -1,0 +1,1 @@
+CALL InsertSupplierProduct(1,3);

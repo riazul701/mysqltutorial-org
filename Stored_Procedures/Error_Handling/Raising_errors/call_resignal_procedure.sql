@@ -1,0 +1,1 @@
+CALL Divide(10,0,@result);
