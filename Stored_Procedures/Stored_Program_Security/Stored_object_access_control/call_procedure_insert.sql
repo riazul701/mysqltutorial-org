@@ -1,0 +1,1 @@
+call InsertMessage('Hello World');
