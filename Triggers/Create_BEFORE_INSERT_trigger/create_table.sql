@@ -1,0 +1,5 @@
+CREATE TABLE WorkCenters (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    capacity INT NOT NULL
+);

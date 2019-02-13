@@ -1,0 +1,13 @@
+CREATE TABLE UserChangeLogs (
+    id INT AUTO_INCREMENT,
+    productCode VARCHAR(15) DEFAULT NULL,
+    updatedAt TIMESTAMP NOT NULL 
+	DEFAULT CURRENT_TIMESTAMP 
+        ON UPDATE CURRENT_TIMESTAMP,
+    updatedBy VARCHAR(30) NOT NULL,
+    PRIMARY KEY (id),
+    FOREIGN KEY (productCode)
+        REFERENCES products (productCode)
+        ON DELETE CASCADE 
+        ON UPDATE CASCADE
+);
