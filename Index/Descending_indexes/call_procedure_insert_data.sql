@@ -1,0 +1,1 @@
+CALL insertSampleData(10000,1,1000);

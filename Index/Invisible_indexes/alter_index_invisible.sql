@@ -1,0 +1,2 @@
+ALTER TABLE employees
+ALTER INDEX extension VISIBLE;

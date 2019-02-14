@@ -1,0 +1,1 @@
+CREATE INDEX idx_buyprice ON products(buyPrice); 

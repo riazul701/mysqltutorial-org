@@ -1,0 +1,4 @@
+CREATE TABLE t(
+    pk INT PRIMARY KEY,
+    c VARCHAR(10)
+);
