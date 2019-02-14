@@ -1,0 +1,3 @@
+SHOW FULL TABLES 
+FROM sys
+LIKE 'waits%';

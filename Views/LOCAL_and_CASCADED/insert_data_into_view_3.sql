@@ -1,0 +1,1 @@
+INSERT INTO v3(c) VALUES (30);

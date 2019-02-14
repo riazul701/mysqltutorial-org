@@ -1,0 +1,5 @@
+CREATE OR REPLACE VIEW v3 
+AS
+    SELECT c
+    FROM v2
+    WHERE c < 20;

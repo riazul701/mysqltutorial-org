@@ -1,0 +1,6 @@
+ALTER VIEW v2 AS
+    SELECT 
+        c
+    FROM
+        v1 
+WITH LOCAL CHECK OPTION;
