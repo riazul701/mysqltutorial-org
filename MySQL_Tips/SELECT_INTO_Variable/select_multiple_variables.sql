@@ -1,0 +1,3 @@
+SELECT 
+    @city, 
+    @country;

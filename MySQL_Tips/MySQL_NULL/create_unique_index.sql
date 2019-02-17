@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX idx_phone ON leads(phone);

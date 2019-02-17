@@ -1,0 +1,3 @@
+DELETE FROM tmp 
+WHERE
+    ID = 3;

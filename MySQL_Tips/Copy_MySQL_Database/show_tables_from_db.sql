@@ -1,0 +1,1 @@
+SHOW TABLES FROM classicmodels_backup;

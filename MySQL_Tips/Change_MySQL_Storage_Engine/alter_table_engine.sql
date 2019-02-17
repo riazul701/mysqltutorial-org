@@ -1,0 +1,1 @@
+ALTER TABLE offices ENGINE = 'MYISAM';

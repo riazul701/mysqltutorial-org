@@ -1,0 +1,1 @@
+SELECT DATE(NOW()) today;

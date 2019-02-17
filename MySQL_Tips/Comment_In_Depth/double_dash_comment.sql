@@ -1,0 +1,1 @@
+SELECT * FROM users; -- This is a comment

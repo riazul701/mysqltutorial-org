@@ -1,0 +1,4 @@
+CREATE TABLE t1 (
+    k INT AUTO_INCREMENT,
+    KEY (k)
+)  /*!50110 KEY_BLOCK_SIZE=1024; */
